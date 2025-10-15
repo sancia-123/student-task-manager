@@ -23,8 +23,10 @@ It allows users to **create, edit, delete, and track tasks** with statuses and d
 ![Task Form](screenshots/task-form.png)  
 ![Task List](screenshots/task-list.png)  
 ![Chart Status](screenshots/chart-status.png)
+![Alt Text](screenshots/task-form.png)
+![Alt Text](screenshots/task-list.png)
+![Alt Text](screenshots/chart-status.png)
 
-*(Add your own screenshots in the `screenshots` folder.)*
 
 ---
 
